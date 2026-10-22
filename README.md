@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed
 
-### Aspiring CyberSecurity + Network Engineer | London, UK
+### Aspiring Cybersecurity + Network Engineer | London, UK
 
 I'm 18 and building a career in IT. My main focus is networking, with a growing interest in cybersecurity. I learn by doing hands-on labs and write up what I learn here.
 
@@ -14,8 +14,7 @@ I'm 18 and building a career in IT. My main focus is networking, with a growing 
 
 ##  Goals
 
-- [ ] CCST (Cisco Certified Support Technician)
-- [ ] IT Support Specialist
+- [ ] CCST IT Support (Cisco Certified Support Technician)
 - [ ] CCNA
 - [ ] Security+
 - [ ] First role in IT and Networking
@@ -26,7 +25,7 @@ Cisco Packet Tracer, Linux, Windows, Bash, Wireshark, Nmap
 
 ##  Languages
 
-English, French, Arabic, Spanish.
+English (fluent), French (fluent), Spanish (basic), Arabic
 
 ---
 
